@@ -1,8 +1,8 @@
-## Flappy Bird
+## Dodgey Bird
 
 ### Background
 
-JavaScript game inspired by the original **Flappy Bird**. Flappy Bird is an one player game where the player controls the vertical movement of the bird with the space key. The objective of the game is to pass through as many green pipes as you can without hitting them. The player loses when he or she hits the green pipes or falls down to the ground.
+Dodgey Bird is a JavaScript game inspired by the original **Flappy Bird**. Dodgey Bird is an one player game where the player controls the vertical movement of the bird with the space key. The objective of the game is to dodge all the enemy birds that are headed to you. The player loses when he or she gets hits by the enemy birds.
 
 ### Functionality & MVP  
 
@@ -10,7 +10,7 @@ With this Flappy Bird simulator, users will be able to:
 
 - [ ] Start game, reset the game, and mute music  
 - [ ] Control the bird's vertical motion by tapping on the spacebar
-- [ ] The Pipes will generate at random with random spacing.
+- [ ] The enemy bird will attack at random.
 
 In addition, this project will include:
 
