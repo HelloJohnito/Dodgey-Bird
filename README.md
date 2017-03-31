@@ -15,7 +15,7 @@ Dodgey Bird is a JavaScript game inspired by the original **Flappy Bird**. Dodge
 
 ### Technical Implementation
 
-The game logic for Dodgey Bird is written in JavaScript with a bit of jQuery to show/hide the start and the retry menu. Dodgey Bird implements the HTML Canvas to render and update the game onto display.
+The game logic for Dodgey Bird is written in JavaScript with a hint of jQuery to show/hide the start and the retry menu. Dodgey Bird implements the HTML Canvas to render and update the game onto display.
 
 
 #### Collision Calculation
