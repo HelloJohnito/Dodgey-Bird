@@ -1,6 +1,6 @@
 ## Dodgey Bird
 
-[Live Link]: hellojohnito.github.io/Dodgey-Bird/
+[Live Link](https://hellojohnito.github.io/Dodgey-Bird/)
 
 <p align="center">
     <img src="img/dodgeybird.png" alt="Landing Page" />
