@@ -8,23 +8,44 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="application/javascript" src="vendor/keymaster.js"></script>
     <script type="application/javascript" src="lib/bundle.js"></script>
-    <canvas id="canvas" style= "background: url('https://res.cloudinary.com/deh9l9lyq/image/upload/v1490847393/baclground3_uot9bl.png')"></canvas>
+
+    <link rel="stylesheet" type="text/css" href="style/style.css">
+
+    <div class="border">
+      <canvas id="canvas" style= "background: url('https://res.cloudinary.com/deh9l9lyq/image/upload/v1490847393/baclground3_uot9bl.png')">
+      </canvas>
+
+      <div id="coin-count"></div>
+
+      <div class="start-menu">
+        <div class="start">
+          <div class="title">Dodgey Bird</div>
+          <button class="start-button">
+            start
+          </button>
+        </div>
+      </div>
+
+      <div class="retry-menu">
+        <div class="retry">
+          <div class="game-over">Game Over</div>
+          <button class="retry-button">
+            Retry
+          </button>
+      </div>
+      </div>
 
 
-    <div class="start-menu">
-      <div class="title">Dodgey Bird</div>
-      <button class="start-button">
-        start
-      </button>
     </div>
 
-    <div class="retry-menu">
-      <div class="retry">Game Over</div>
-      <button class="retry-button">
-        Retry
-      </button>
+    <div class="border">
+    <div class="text">
+      Press the spacebar continuously to float.
+      Collect the coins and dodge the bullets!
+      DON'T FLY TOO LOW!
+      Have Fun!
     </div>
-
+  </div>
 
   </body>
 </html>

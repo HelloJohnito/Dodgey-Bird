@@ -1,0 +1,55 @@
+.border{
+  display: flex;
+  justify-content: center;
+  /*flex-direction: column;*/
+}
+
+#canvas{
+  position: relative;
+}
+
+.start-menu{
+  position: absolute;
+  width: 700px;
+  height: 450px;
+  font-size: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.start{
+  text-align: center;
+}
+
+
+.retry-menu{
+  position: absolute;
+  width: 700px;
+  height: 450px;
+  font-size: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.retry{
+  text-align: center;
+}
+
+
+#coin-count{
+  position: absolute;
+  font-size: 44px;
+  color: orange;
+}
+
+.text{
+  margin-top: 15px;
+  background-color: #ffdd99;
+  padding: 10px 10px 0 10px;
+  border: solid 1px black;
+  width: 300px;
+  height: 80px;
+  text-align: center;
+}

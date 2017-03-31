@@ -8,13 +8,13 @@ Dodgey Bird is a JavaScript game inspired by the original **Flappy Bird**. Dodge
 
 With this Flappy Bird simulator, users will be able to:
 
-- [ ] Start game, reset the game, and mute music  
+- [ ] Start game and reset the game  
 - [ ] Control the bird's vertical motion by tapping on the spacebar
-- [ ] The enemy bird will attack at random.
+- [ ] The enemy will attack at random.
 
 In addition, this project will include:
 
-- [ ] An instruction modal
+- [ ] An instruction
 - [ ] A production Readme
 
 ### Wireframes
@@ -59,7 +59,7 @@ Start creating the Bird logic for the bird and learn how to render the bird onto
 
 **Day 3**: Continue with the Game Logic.
 
-**Day 4**: Display with sprite images, have music playing in the background.
+**Day 4**: Display with sprite images.
   - Learn how to display images onto the screen using sprite images.
 
 
