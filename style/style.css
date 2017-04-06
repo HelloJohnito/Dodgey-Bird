@@ -1,5 +1,5 @@
 .body{
-  background-color: #b3f0ff;
+  /*background-color: #b3f0ff;*/
 }
 
 .border{
@@ -14,8 +14,11 @@
 
 .start-menu{
   position: absolute;
-  width: 700px;
-  height: 450px;
+  background-color: #b3f0ff;
+  border: 1px solid;
+  margin-top: 100px;
+  width: 420px;
+  height: 175px;
   font-size: 50px;
   display: flex;
   justify-content: center;
@@ -38,8 +41,11 @@
 
 .retry-menu{
   position: absolute;
-  width: 700px;
-  height: 450px;
+  background-color: #b3f0ff;
+  border: 1px solid;
+  margin-top: 100px;
+  width: 420px;
+  height: 175px;
   font-size: 50px;
   display: flex;
   justify-content: center;
