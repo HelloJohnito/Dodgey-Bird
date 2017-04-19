@@ -18,7 +18,7 @@ The game logic for Dodgey Bird is written in JavaScript with a hint of jQuery to
 
 #### Collision Calculation
 
-The following code compares the radiuses of the two objects to calculate the distance between them. The moving objects collide when the distance between the two radiuses reaches zero or below. If the bird collides with a coin, the coin count increments by one, whereas, if the bird collides with an oncoming missile, the game will end.
+The following code compares the radiuses of the two objects to calculate the distance between them. The moving objects collide when the distance between the two radiuses reaches zero or below. If the bird collides with a coin, the coin count increments by one but if the bird collides with an oncoming missile, the game will end.
 
 ```
 // if the distance between the two object is less than the radius of the two object, they have collided with each other.  
